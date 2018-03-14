@@ -1,0 +1,27 @@
+h1 {
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-size: 56px;
+}
+h2 {
+    color: green;
+margin: 20px;
+text-transform: capitalize;
+}
+
+p {
+    font-family: fantasy;
+    border: 1px solid powderblue;
+    margin: 50px;
+
+}
+
+img {
+    height: 150x;
+    width: 140px;
+}
+li {
+    text-transform: capitalize;
+}
